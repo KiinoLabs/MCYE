@@ -62,11 +62,11 @@ export function Footer() {
           <div className="lg:col-span-1 space-y-6">
             <div className="space-y-2">
               <Image
-                src="/mcye-logo.png"
+                src="/mcye-logo-Photoroom.png"
                 alt="MCYE Logo"
                 width={150}
                 height={75}
-                className="h-20 w-auto"
+                className="h-36 w-auto"
               />
             </div>
             <p className="text-blue-100 text-sm leading-relaxed">

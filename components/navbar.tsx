@@ -24,11 +24,11 @@ export function Navbar() {
           {/* Logo */}
           <Link href="#" className="flex items-center flex-shrink-0">
             <Image
-              src="/mcye-logo.png"
+              src="/mcye-logo-Photoroom.png"
               alt="MCYE Logo"
               width={220}
               height={110}
-              className="h-16 w-auto"
+              className="h-36 w-auto"
               priority
             />
           </Link>
