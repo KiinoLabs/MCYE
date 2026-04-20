@@ -17,10 +17,10 @@ export function Partners() {
         {/* Header */}
         <div className="text-center mb-20">
           <h2 className="text-5xl lg:text-6xl font-bold text-[#1E5AA8] font-serif mb-6">
-            Our Partners
+            Our Core Values Drive Impact
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
-            We collaborate with leading organizations to amplify our impact and reach.
+            We engage actively
           </p>
         </div>
 
