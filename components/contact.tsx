@@ -79,7 +79,7 @@ export function Contact() {
                   href="tel:+251911223344"
                   className="text-gray-600 hover:text-[#1E5AA8] transition-colors"
                 >
-                  +251 (911) 223-344
+                  +251 (911) xxx-xx
                 </a>
               </div>
             </div>
@@ -96,7 +96,7 @@ export function Contact() {
                 </h3>
                 <p className="text-gray-600">
                   123 Community Street<br />
-                  Your City, State 12345
+                 City, State 12345
                 </p>
               </div>
             </div>
