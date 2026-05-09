@@ -16,7 +16,7 @@ export function About() {
         {/* Two Column Layout - Vertically Centered */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           {/* Left: Image */}
-          <div className="relative h-96 lg:h-full min-h-[450px] rounded-xl overflow-hidden shadow-xl">
+          <div className="relative h-96 lg:h-full min-h-[350px] rounded-xl overflow-hidden shadow-xl">
             <Image
               src="/team.png"
               alt="Our dedicated team working together to empower communities"
