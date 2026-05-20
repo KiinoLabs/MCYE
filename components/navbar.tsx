@@ -13,7 +13,7 @@ export function Navbar() {
     { label: 'Home', href: '#' },
     { label: 'About', href: '#' },
     { label: 'Programs', href: '#' },
-    { label: 'Reports', href: '#' },
+    { label: 'News', href: '#' },
     { label: 'Contact', href: '#' },
   ]
 
